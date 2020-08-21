@@ -1,5 +1,7 @@
 package com.mgk.singleton.statics;
 
+import java.util.HashMap;
+
 public class StaticSingletonTest {
     public static void main(String[] args) {
         StaticSingleton instance1=  StaticSingleton.getInstance();
